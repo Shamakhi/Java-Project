@@ -1,0 +1,23 @@
+.root {
+    -fx-background-color: #222831;
+}
+.button{
+    -fx-background-color: #393e46;
+    -fx-text-fill: #dbdbdb;
+    -fx-effect: dropshadow( one-pass-box , black, 14, 0.0 , 3, 0 );
+}
+.button:hover{
+    -fx-background-color: #007a82;
+    -fx-text-fill: #dbdbdb;
+}
+.text-field{
+    -fx-background-color: #1d5062;
+    -fx-text-fill:#dbdbdb ;
+}
+.text-field:hover{
+    -fx-effect:dropshadow( three-pass-box , #fefefe, 10, 0.1 , 0, 0 ); ;
+}
+.label{
+    -fx-text-fill: #b6b6b6;
+}
+

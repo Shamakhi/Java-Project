@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="JFxSamples">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/JFxSamples" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/JFxSamples/CssFx/src" />
+      <root url="file://$PROJECT_DIR$/JFxSamples/LableButtonTextfieldSampleCode/src" />
+      <root url="file://$PROJECT_DIR$/JFxSamples/LableButtonTextfieldSampleFxml/src" />
+      <root url="file://$PROJECT_DIR$/JFxSamples/MultiScreenFxCode/src" />
+      <root url="file://$PROJECT_DIR$/JFxSamples/MultiScreenFxFxml/src" />
+      <root url="file://$PROJECT_DIR$/JFxSamples/TabelviewFxml/src" />
+      <root url="file://$PROJECT_DIR$/JFxSamples/TableviewCode/src" />
+    </SOURCES>
+  </library>
+</component>
